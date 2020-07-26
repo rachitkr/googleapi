@@ -1,6 +1,8 @@
 # googleapi
 Downloading and uploading file using Google API
 
+Downloading
+
 Step 1:
 
 Go to URL: https://developers.google.com/drive/api/v3/quickstart/python
@@ -18,3 +20,6 @@ Change the file_id to the id of the file which needs to be downloaded.
 
 Also more MIME types can be explored here: https://developers.google.com/drive/api/v3/ref-export-formats
 
+Uploading
+
+Refer: https://developers.google.com/sheets/api/guides/batchupdate
