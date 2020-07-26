@@ -14,5 +14,7 @@ This will create the file token.pickle
 
 Step 3:
 
-Change the file_id to the id of the file which needs to be downloaded
+Change the file_id to the id of the file which needs to be downloaded.
+
+Also more MIME types can be explored here: https://developers.google.com/drive/api/v3/ref-export-formats
 
